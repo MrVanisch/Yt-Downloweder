@@ -18,7 +18,7 @@ cd youtube_downloader
 # Install dependencies
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 
 Run the application:
 
@@ -32,8 +32,8 @@ Choose an output folder and click Download.
 
 Wait for the download (and conversion, if MP3) to complete.
 
-##Project Structure
-
+## Project Structure
+```
 youtube_downloader/
 ├── requirements.txt
 ├── main.py
@@ -44,7 +44,7 @@ youtube_downloader/
     ├── downloader.py
     ├── gui.py
     └── utils.py
-
+```
 Future Improvements
 
 ##Download queue support.
