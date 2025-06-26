@@ -47,7 +47,7 @@ youtube_downloader/
 ```
 Future Improvements
 
-##Download queue support.
+## Download queue support.
 
 Command-line interface (CLI) version.
 
